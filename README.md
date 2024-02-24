@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliaxon Baig</h1>
-<h3 align="center">A passionate IT Manager and full stack developer on TALL stack!</h3>
+<h3 align="center">A passionate IT Manager interested in cloud, cybersecurity and secure web development</h3>
 
 - 🔭 I’m currently working on **Information & Cyber Security, Risk Management, Security Architecture & Web Development**
 
