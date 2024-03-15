@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Information & Cyber Security, Risk Management, Security Architecture & Web Development**
 
-- 🌱 I’m currently learning **AWS Security Architecture, Filament PHP and SAP Cloud Security**
+- 🌱 I’m currently learning **AWS Security Architecture, Filament PHP and Cloud Security**
 
 - 👯 I’m looking to collaborate on **Cloud Architecture and Information Security**
 
